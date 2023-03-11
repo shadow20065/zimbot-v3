@@ -37,14 +37,14 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['27634090203','']
-global.premium = ['27634090203','918188019676']
-global.botname = 'ZIM BOT INC'
-global.ownername = 'DRIPS'
-global.group1 = 'https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A'
-global.group2 = 'https://chat.whatsapp.com/HSfcYU13g5C8GxINWwSWoA'
-global.packname = 'ZIM BOT INC'
-global.ytchannel = 'https://youtu.be/ww4z2m3uORU'
+global.owner = ['94766969406','']
+global.premium = ['94761091578','94766969406']
+global.botname = 'ZIM BOT SHADOW'
+global.ownername = 'MIHIRUK DILSHAN'
+global.group1 = 'https://chat.whatsapp.com/L2KlicS5u1X30Y5VexgkPF'
+global.group2 = 'https://chat.whatsapp.com/Gt67LR4gkJvJV4boss5ZuG'
+global.packname = 'SHADOW KOREAN DREAMS BOT'
+global.ytchannel = 'https://youtube.com/@spchathuofficial8091'
 global.monayawal = '100000'
 global.darahawal = '100'
 global.besiAwal = '15'
